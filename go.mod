@@ -4,7 +4,7 @@ go 1.22.0
 
 require (
 	github.com/blang/semver v3.5.1+incompatible
-	github.com/cloudnative-pg/machinery v0.0.0-20241001075747-34c8797af80f
+	github.com/cloudnative-pg/machinery v0.0.0-20241001153943-0e5ba4f9a0e1
 	github.com/onsi/ginkgo/v2 v2.20.2
 	github.com/onsi/gomega v1.34.2
 	k8s.io/api v0.31.1
