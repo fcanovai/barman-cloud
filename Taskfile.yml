@@ -71,7 +71,7 @@ tasks:
       # renovate: datasource=docker depName=golang versioning=semver
       GOLANG_IMAGE_VERSION: 1.23.2
       # renovate: datasource=git-refs depName=gotest lookupName=https://github.com/Excoriate/daggerverse currentValue=main
-      DAGGER_GOTEST_SHA: 205dd87b5171baf05960618fd6fdeadb79db5448
+      DAGGER_GOTEST_SHA: e1570f09ce12a1a58ef4f358fb8461cf1212f509
     cmds:
       - >
         GITHUB_REF= dagger -s call -m github.com/Excoriate/daggerverse/gotest@90a5d911a70510f9004544d4a25d39d917f1f668
