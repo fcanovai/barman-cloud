@@ -6,7 +6,7 @@ require (
 	github.com/blang/semver v3.5.1+incompatible
 	github.com/cloudnative-pg/machinery v0.0.0-20241030141148-670a0f16f836
 	github.com/onsi/ginkgo/v2 v2.21.0
-	github.com/onsi/gomega v1.35.0
+	github.com/onsi/gomega v1.35.1
 	k8s.io/api v0.31.2
 	k8s.io/apimachinery v0.31.2
 	sigs.k8s.io/controller-runtime v0.19.1
