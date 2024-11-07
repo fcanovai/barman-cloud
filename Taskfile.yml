@@ -69,7 +69,7 @@ tasks:
       - controller-gen
     env:
       # renovate: datasource=docker depName=golang versioning=semver
-      GOLANG_IMAGE_VERSION: 1.23.2
+      GOLANG_IMAGE_VERSION: 1.23.3
       # renovate: datasource=git-refs depName=gotest lookupName=https://github.com/Excoriate/daggerverse currentValue=main
       DAGGER_GOTEST_SHA: 6a0adb6c82911c67503dfcc36318887cac7bf073
     cmds:
