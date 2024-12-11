@@ -7,8 +7,8 @@ require (
 	github.com/cloudnative-pg/machinery v0.0.0-20241209124314-8e260445e987
 	github.com/onsi/ginkgo/v2 v2.22.0
 	github.com/onsi/gomega v1.36.1
-	k8s.io/api v0.31.0
-	k8s.io/apimachinery v0.31.2
+	k8s.io/api v0.31.4
+	k8s.io/apimachinery v0.31.4
 	sigs.k8s.io/controller-runtime v0.19.3
 )
 
