@@ -6,7 +6,7 @@ toolchain go1.23.5
 
 require (
 	github.com/blang/semver v3.5.1+incompatible
-	github.com/cloudnative-pg/machinery v0.0.0-20250114104348-ac9ba00698fc
+	github.com/cloudnative-pg/machinery v0.0.0-20250123170748-77a23bcd05c3
 	github.com/onsi/ginkgo/v2 v2.22.2
 	github.com/onsi/gomega v1.36.2
 	k8s.io/api v0.32.1
