@@ -6,7 +6,7 @@ toolchain go1.23.5
 
 require (
 	github.com/blang/semver v3.5.1+incompatible
-	github.com/cloudnative-pg/machinery v0.0.0-20250123170748-77a23bcd05c3
+	github.com/cloudnative-pg/machinery v0.0.0-20250124134709-2553c239f2c8
 	github.com/onsi/ginkgo/v2 v2.22.2
 	github.com/onsi/gomega v1.36.2
 	k8s.io/api v0.32.1
@@ -57,7 +57,7 @@ require (
 	golang.org/x/net v0.33.0 // indirect
 	golang.org/x/oauth2 v0.23.0 // indirect
 	golang.org/x/sync v0.10.0 // indirect
-	golang.org/x/sys v0.28.0 // indirect
+	golang.org/x/sys v0.29.0 // indirect
 	golang.org/x/term v0.27.0 // indirect
 	golang.org/x/text v0.21.0 // indirect
 	golang.org/x/time v0.7.0 // indirect
